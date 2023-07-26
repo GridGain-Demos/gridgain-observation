@@ -9,7 +9,7 @@ almost any observation platform, though the method of doing so is not
 always entirely obvious. This repo includes sample configurations and
 guides for integrating with a number of different systems.
 
-This is my no means a complete list. The absence of a provider should
+This is by no means a complete list. The absence of a provider should
 not be construed as GridGain not working well with it. Instead, it means
 either that we do not come across it on a regular basis, or that
 integration is trivial and we have never been asked to help.
@@ -60,3 +60,8 @@ administrative tasks and monitor your clusters.
 
 GridGain includes native support for Control Center. Sign up for the
 SaaS version [here](https://portal.gridgain.com).
+
+## New Relic
+
+[New Relic](newrelic) is an "all-in-one observability" platform and
+includes the ability to monitor metrics, logs and traces.

@@ -65,3 +65,9 @@ SaaS version [here](https://portal.gridgain.com).
 
 [New Relic](newrelic) is an "all-in-one observability" platform and
 includes the ability to monitor metrics, logs and traces.
+
+## Prometheus
+
+[Prometheus](prometheus) is a popular monitoring tool supported by the
+[Cloud Native Computing Foundation](https://www.cncf.io/), the same
+people as Kubernetes.

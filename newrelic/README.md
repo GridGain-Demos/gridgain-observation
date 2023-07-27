@@ -49,7 +49,7 @@ The `$NEW_RELIC_API` is the code you found in your account above.
 
 The `$SERVICE_NAME` is the name of the cluster or application. This can
 be anything you like, but should uniquely identify the entire cluster.
-An example number be `gridgain-prod`.
+An example might be `gridgain-prod`.
 
 To identify your GridGain nodes in New Relic, you should name them. It's
 recommended to use the consistent ID for example:
